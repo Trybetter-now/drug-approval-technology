@@ -4,9 +4,10 @@ function App() {
   return (
     // <BrowserRouter>
     <div className="App">
-      <h1 className="mb-4 text-4xl font-extrabold">
-        Hello world!!!!
+      <h1 className="text-slate-400 text-6xl">
+        Hello World!!
       </h1>
+      
     </div>
     // </BrowserRouter>
   )
